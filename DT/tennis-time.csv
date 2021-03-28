@@ -1,0 +1,15 @@
+day,outlook,temp,humidity,wind,time
+D1,Sunny,Hot,High,Weak,26
+D2,Sunny,Hot,High,Strong,30
+D3,Overcast,Hot,High,Weak,48
+D4,Rain,Mild,High,Weak,46
+D5,Rain,Cool,Normal,Weak,62
+D6,Rain,Cool,Normal,Strong,23
+D7,Overcast,Cool,Normal,Strong,43
+D8,Sunny,Mild,High,Weak,36
+D9,Sunny,Cool,Normal,Weak,38
+D10,Rain,Mild,Normal,Weak,48
+D11,Sunny,Mild,Normal,Strong,48
+D12,Overcast,Mild,High,Strong,62
+D13,Overcast,Hot,Normal,Weak,44
+D14,Rain,Mild,High,Strong,30
